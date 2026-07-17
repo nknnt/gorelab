@@ -42,3 +42,6 @@ These assets are required for the intended experience.
 ### Screenshots
 
 <img src="screenshots/GoreLab_Preview.png" width="600">
++ Note: The screenshot has been intentionally blurred.
+
+It uses custom assets created for this project, and those assets are not included in the repository.
