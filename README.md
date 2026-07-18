@@ -11,7 +11,7 @@
 - Customizable body positioning
 - Real time gore effects
 - Experimental sandbox support
-- This project is still under active development and is continuously being updated.
+- This project is still under active development and is continuously being updated. (project ASH)
 
 ### Asset Requirements
 
