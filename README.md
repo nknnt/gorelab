@@ -4,6 +4,8 @@
 > **Content Warning:**
 > This software contains intense gore, graphic violence, body horror elements, and disturbing scenes.
 
+[![Latest Release](https://img.shields.io/github/v/release/nknnt/gorelab)](https://github.com/nknnt/gorelab/releases)
+
 ### Features:
 - Built with C# / .NET 7.0 using Windows Forms (WinForms)
 - Dynamic limb interaction
